@@ -19,3 +19,8 @@ button{
     width: 700px;
     height: 400px;
 }
+.firstright{
+    width: 30%;
+    margin-left: auto;
+    margin-right: auto;
+}
