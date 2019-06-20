@@ -13,5 +13,18 @@ button{
     display: block;
     margin-left: auto;
     margin-right: auto;
+}
 
+#second{
+    text-align: center;
+}
+
+.h{
+    height: 30px;
+    width: 90px;
+    background-color: red;
+}
+#house{
+    width: 600px;
+    height: 400px;
 }
