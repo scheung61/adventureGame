@@ -10,9 +10,17 @@ img{
     left: 460px;
 }
 button{
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
+    position: relative;
+    left: 50px;
+    top: 70px;
+    background-color: red;
+    width: 150px;
+    height: 80px;
+    border-radius: 12px;
+    border-color: orange;
+    border-style: double;
+    border-width: thick;
+    
 }
 
 #house{
@@ -40,4 +48,15 @@ button{
     margin-right: auto;
     margin-left: auto;
     width:60%;
+}
+.final{
+    position: relative;
+    left: 400px;
+    top: -40px;
+}
+
+.momentun{
+    position: relative;
+    left: 580px;
+    top: -60px;
 }
