@@ -36,3 +36,8 @@ button{
 .fourpictureright{
     width: 30%;
 }
+#wrong{
+    margin-right: auto;
+    margin-left: auto;
+    width:60%;
+}
