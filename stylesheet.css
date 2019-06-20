@@ -15,6 +15,10 @@ button{
     margin-right: auto;
 }
 
+#house{
+    width: 700px;
+    height: 400px;
+}
 
 .firstbody {
     background-color: aqua;
