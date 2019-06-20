@@ -9,7 +9,9 @@ img{
     position: relative;
     left: 460px;
 }
-h2{
-    text-align: center;
-    
+button{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
 }
