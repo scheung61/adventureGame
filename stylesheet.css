@@ -65,6 +65,10 @@ p{
     color: red;
     font-size: 20px;
     position: relative;
-    top: -180;
+    bottom: 170px;
     
+}
+audio{
+    position: relative;
+    top: 300px;
 }
