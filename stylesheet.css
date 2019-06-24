@@ -64,11 +64,9 @@ button{
 p{
     color: red;
     font-size: 20px;
-    position: relative;
-    bottom: 170px;
+   
     
 }
 #song {
-    position: relative;
-    top: 300px;
+    padding-top: 12px;
 }
