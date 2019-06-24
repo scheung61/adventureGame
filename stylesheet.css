@@ -1,5 +1,5 @@
 body{
-    background-color: yellowgreen;
+    background-color: aqua;
 }
 h1{
     text-align: center;
@@ -59,4 +59,12 @@ button{
     position: relative;
     left: 580px;
     top: -60px;
+}
+
+p{
+    color: red;
+    font-size: 20px;
+    position: relative;
+    top: -180;
+    
 }
